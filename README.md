@@ -4,7 +4,6 @@ Este repositório contém um script Python para extrair mensagens de chat ao viv
 
 ## Funcionalidades
 
-- Busca por ID de chat ao vivo de um vídeo específico.
 - Coleta de mensagens do chat ao vivo.
 - Salvamento contínuo das mensagens em um arquivo CSV.
 
