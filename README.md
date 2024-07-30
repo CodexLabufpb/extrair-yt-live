@@ -1,4 +1,4 @@
-# YouTube Live Chat Extractor
+# Extrair YouTube Live Chat
 
 Este repositório contém um script Python para extrair mensagens de chat ao vivo do YouTube utilizando a YouTube Data API v3.
 
